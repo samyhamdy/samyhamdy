@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Samy Hamdy Saber</h1>
-<h3 align="center">A junior flutter developer</h3>
+<h3 align="center"> Junior Flutter Developer</h3>
 <img align="right" alt="coding" width="500" height = "400" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 - 🌱 I’m currently working at **Elryad**
