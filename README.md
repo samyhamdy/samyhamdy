@@ -2,8 +2,8 @@
 <h3 align="center">Flutter Developer</h3>
 <img align="right" alt="coding" width="500" height = "400" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🌱 <p align="left">I'n currently working at <a href="https://elryad.com/ar/">Elryad</a></p>
-- 📫 How to reach me **SamyHamdy221152@gmail.com**
+- 🌱<p align="left">I'n currently working at <a href="https://elryad.com/ar/">Elryad</a></p>
+- 📫How to reach me **SamyHamdy221152@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
